@@ -3,6 +3,20 @@
 - How to setup a local development environment for Search Salone?
 - Git workflow: how to make contributions to Search Salone,        without breaking the live website?
 
+## Today's plan
+
+- Formalities? :)
+- Introduction 
+- Expectations -> What do you expect from this workshop?
+- Goals -> What are our goals for the coming weeks
+- Questions?
+- Explanations:
+  - Setup local environment
+  - Git workflow
+- Exercise assignment
+- Evaluation
+- Next meeting 
+
 ## 1. Setup local development environment
 
 requirements: 
