@@ -7,6 +7,19 @@ Today we learn how to setup a local development environment for Search Salone. T
 [Go to lesson 1](./lesson-1-contribution-basics.md)
 
 ## Lesson 2
+Adding enterprises:
+- Understanding the Search Salone datamodel
+- How to add a new enterprise to Search Salone. 
+  - Adding images
+- How to add a batch of enterprises.
 
-We will discuss how to make changes to the data in search salone
-Some more content for week 2
+## Lesson 3
+Styling and Layout:
+- How does the styling for Search Salone work?
+- Making small style changes
+- Creating a custom layout for an enterprise
+
+## Lesson 4
+Advanced topics:
+- Understanding the search functionality
+- Adding category pages to Search Salone
